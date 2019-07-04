@@ -1,0 +1,22 @@
+C:\Users\Treinamento 5\source\repos\Workers\bin\Debug\netcoreapp2.2\Workers.deps.json
+C:\Users\Treinamento 5\source\repos\Workers\bin\Debug\netcoreapp2.2\Workers.runtimeconfig.json
+C:\Users\Treinamento 5\source\repos\Workers\bin\Debug\netcoreapp2.2\Workers.runtimeconfig.dev.json
+C:\Users\Treinamento 5\source\repos\Workers\bin\Debug\netcoreapp2.2\Workers.dll
+C:\Users\Treinamento 5\source\repos\Workers\bin\Debug\netcoreapp2.2\Workers.pdb
+C:\Users\Treinamento 5\source\repos\Workers\obj\Debug\netcoreapp2.2\Workers.csprojAssemblyReference.cache
+C:\Users\Treinamento 5\source\repos\Workers\obj\Debug\netcoreapp2.2\Workers.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 5\source\repos\Workers\obj\Debug\netcoreapp2.2\Workers.AssemblyInfoInputs.cache
+C:\Users\Treinamento 5\source\repos\Workers\obj\Debug\netcoreapp2.2\Workers.AssemblyInfo.cs
+C:\Users\Treinamento 5\source\repos\Workers\obj\Debug\netcoreapp2.2\Workers.dll
+C:\Users\Treinamento 5\source\repos\Workers\obj\Debug\netcoreapp2.2\Workers.pdb
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\bin\Debug\netcoreapp2.2\Workers.deps.json
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\bin\Debug\netcoreapp2.2\Workers.runtimeconfig.json
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\bin\Debug\netcoreapp2.2\Workers.runtimeconfig.dev.json
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\bin\Debug\netcoreapp2.2\Workers.dll
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\bin\Debug\netcoreapp2.2\Workers.pdb
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\obj\Debug\netcoreapp2.2\Workers.csprojAssemblyReference.cache
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\obj\Debug\netcoreapp2.2\Workers.csproj.CoreCompileInputs.cache
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\obj\Debug\netcoreapp2.2\Workers.AssemblyInfoInputs.cache
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\obj\Debug\netcoreapp2.2\Workers.AssemblyInfo.cs
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\obj\Debug\netcoreapp2.2\Workers.dll
+C:\Users\guibo\source\Arquivos de lá\Testes\Workers\obj\Debug\netcoreapp2.2\Workers.pdb
