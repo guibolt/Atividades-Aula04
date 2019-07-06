@@ -27,7 +27,7 @@ namespace Dic
                         string name = Console.ReadLine();
                         Console.WriteLine("INFORME O VALOR DO INVESTIMENTO");
                         double inv = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
-                        Console.WriteLine("DIGITE AGORA O TIPO DE INVESTIMENTO, 1 PARA POUPANCA E 2 PARA TESOURO DIRETO E 3 PARA CDI");
+                        Console.WriteLine("DIGITE AGORA O TIPO DE INVESTIMENTO, 1 PARA POUPANCA E 2 PARA TESOURO DIRETO ");
                         int op = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("QUANTO MESES DE INVESTIMENTO?");
                         int mes = int.Parse(Console.ReadLine());
@@ -77,7 +77,7 @@ namespace Dic
             double media = cc / num;
             Console.WriteLine($"A MEDIA DOS REDIMENTOS É:{media.ToString("F2",CultureInfo.InvariantCulture)}");
 
-                Console.WriteLine("DESEJA CONTINUAR ? DIGITE SIM PARA CONTINUAR E NAO PARA SAIR");
+                Console.WriteLine("DESEJA CONSULTAR NOVAMENTE ? ? DIGITE SIM PARA CONTINUAR E NAO PARA SAIR");
                 decisao = Console.ReadLine().ToUpper();
 
                 Console.Clear();

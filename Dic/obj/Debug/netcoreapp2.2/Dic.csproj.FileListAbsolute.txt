@@ -9,3 +9,14 @@ C:\Users\guibo\source\repos\Dic\obj\Debug\netcoreapp2.2\Dic.AssemblyInfoInputs.c
 C:\Users\guibo\source\repos\Dic\obj\Debug\netcoreapp2.2\Dic.AssemblyInfo.cs
 C:\Users\guibo\source\repos\Dic\obj\Debug\netcoreapp2.2\Dic.dll
 C:\Users\guibo\source\repos\Dic\obj\Debug\netcoreapp2.2\Dic.pdb
+C:\Users\guibo\Desktop\Atividades4\Dic\bin\Debug\netcoreapp2.2\Dic.deps.json
+C:\Users\guibo\Desktop\Atividades4\Dic\bin\Debug\netcoreapp2.2\Dic.runtimeconfig.json
+C:\Users\guibo\Desktop\Atividades4\Dic\bin\Debug\netcoreapp2.2\Dic.runtimeconfig.dev.json
+C:\Users\guibo\Desktop\Atividades4\Dic\bin\Debug\netcoreapp2.2\Dic.dll
+C:\Users\guibo\Desktop\Atividades4\Dic\bin\Debug\netcoreapp2.2\Dic.pdb
+C:\Users\guibo\Desktop\Atividades4\Dic\obj\Debug\netcoreapp2.2\Dic.csprojAssemblyReference.cache
+C:\Users\guibo\Desktop\Atividades4\Dic\obj\Debug\netcoreapp2.2\Dic.csproj.CoreCompileInputs.cache
+C:\Users\guibo\Desktop\Atividades4\Dic\obj\Debug\netcoreapp2.2\Dic.AssemblyInfoInputs.cache
+C:\Users\guibo\Desktop\Atividades4\Dic\obj\Debug\netcoreapp2.2\Dic.AssemblyInfo.cs
+C:\Users\guibo\Desktop\Atividades4\Dic\obj\Debug\netcoreapp2.2\Dic.dll
+C:\Users\guibo\Desktop\Atividades4\Dic\obj\Debug\netcoreapp2.2\Dic.pdb

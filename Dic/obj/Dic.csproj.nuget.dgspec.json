@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guibo\\source\\repos\\Dic\\Dic.csproj": {}
+    "C:\\Users\\guibo\\Desktop\\Atividades4\\Dic\\Dic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guibo\\source\\repos\\Dic\\Dic.csproj": {
+    "C:\\Users\\guibo\\Desktop\\Atividades4\\Dic\\Dic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guibo\\source\\repos\\Dic\\Dic.csproj",
+        "projectUniqueName": "C:\\Users\\guibo\\Desktop\\Atividades4\\Dic\\Dic.csproj",
         "projectName": "Dic",
-        "projectPath": "C:\\Users\\guibo\\source\\repos\\Dic\\Dic.csproj",
+        "projectPath": "C:\\Users\\guibo\\Desktop\\Atividades4\\Dic\\Dic.csproj",
         "packagesPath": "C:\\Users\\guibo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guibo\\source\\repos\\Dic\\obj\\",
+        "outputPath": "C:\\Users\\guibo\\Desktop\\Atividades4\\Dic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
